@@ -3,32 +3,13 @@
 # 👋 Olá, eu sou o Julio
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+
 💻 Profissional de TI com experiência em suporte 
+
 🧪 Focado em Qualidade de Software e Automação de Testes  
 
-Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** utilizando ferramentas modernas do mercado.
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-- Cypress
-- JavaScript
-- API Testing
-- Git & GitHub
-- SQL
-- Linux
-- Active Directory
-
----
-
-## 📚 Atualmente estudando
-
-- Automação de testes E2E
-- Testes de API
-- Boas práticas de QA
-- Integração de testes em CI/CD
-
+Atualmente estou aprimorando meus conhecimentos em 
+**Automação de Testes** utilizando ferramentas modernas do mercado.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -109,6 +90,15 @@ Atualmente estou aprimorando meus conhecimentos em **Automação de Testes** uti
 
 <br/>
 <br/>
+
+## 📚 Atualmente estudando
+
+- Automação de testes E2E
+- Testes de API
+- Boas práticas de QA
+- Integração de testes em CI/CD
+
+---
 
 ## 📚 Atualmente estudando
 
