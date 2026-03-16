@@ -60,7 +60,7 @@ Atualmente estou aprimorando meus conhecimentos em
     title="jenkins"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" 
+    src="https://www.svgrepo.com/show/373699/jenkins.svg" 
 />
 <img 
     align="left" 
@@ -68,7 +68,7 @@ Atualmente estou aprimorando meus conhecimentos em
     title="mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" 
+    src="https://www.svgrepo.com/show/373848/mysql.svg" 
 />
 <img 
     align="left" 
@@ -76,7 +76,7 @@ Atualmente estou aprimorando meus conhecimentos em
     title="postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" 
+    src="https://www.svgrepo.com/show/354202/postman-icon.svg" 
 />
 
 <img 
