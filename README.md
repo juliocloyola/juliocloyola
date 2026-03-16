@@ -100,15 +100,6 @@ Atualmente estou aprimorando meus conhecimentos em
 
 ---
 
-## 📚 Atualmente estudando
-
-- Automação de testes E2E
-- Testes de API
-- Boas práticas de QA
-- Integração de testes em CI/CD
-
----
-
 ## 📂 Projetos de Automação
 
 🔹 Automação de testes E2E com Cypress  
